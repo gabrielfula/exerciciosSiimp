@@ -1,0 +1,47 @@
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+form {
+  display: flex;
+  gap: 1rem;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+input {
+  padding: 0 20px 0 10px;
+}
+
+.footer {
+  font-size: 13px;
+}
+
+strong {
+  padding-left: 10px;
+}
+
+.red {
+  color: #e21111;
+}
+
+.blue {
+  color: #0000f8;
+  font-weight: bold;
+}
+
+.purple {
+  color: #800080;
+  font-weight: bold;
+}
